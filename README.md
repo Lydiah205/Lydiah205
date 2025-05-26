@@ -1,4 +1,4 @@
-# **Lydiah Okong'o**  
+# **LYDIAH OKONG'O **  
 ### **Data Analyst | Python | SQL | Power BI**  
 
 <div align="left">
