@@ -49,19 +49,6 @@
    - [View Report](#)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lydiah205&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
-## 🌟 Featured Skills
-```python
-# Sample code snippet
-import pandas as pd
-import matplotlib.pyplot as plt
-
-def analyze_sales(data):
-    df = pd.read_csv(data)
-    monthly_sales = df.groupby('month')['sales'].sum()
-    monthly_sales.plot(kind='bar')
-    plt.title('Monthly Sales Analysis')
-    return plt.show()
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lydiah205&layout=compact)
