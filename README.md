@@ -1,54 +1,75 @@
-# Lydiah Okong'o | Data Analyst Portfolio
+# **Lydiah Okong'o**  
+### **Data Analyst | Python | SQL | Power BI**  
 
-![Header Image](assets/data-analytics-header.jpg) *[Image: Data visualization dashboard]*
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%"/>  
+</div>  
 
-## 👋 About Me
-**Detail-oriented Data Analyst** with expertise in transforming complex data into actionable insights. Passionate about using data-driven approaches to solve business problems and optimize processes.
+---  
 
-![Profile Image](assets/profile-placeholder.jpg) *[Image: Professional headshot or avatar]*
+## **👩‍💻 About Me**  
+🔹 **Detail-Oriented Data Analyst** with expertise in **data processing, visualization, and business insights**.  
+🔹 Passionate about **turning raw data into actionable strategies** for growth and optimization.  
+🔹 Strong background in **sales analytics, forecasting, and process improvement**.  
 
-## 🔧 Technical Skills
-![Skills Infographic](assets/skills-infographic.png) *[Image: Visual representation of skills]*
+![Data Analysis](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)  
 
-| Category        | Tools/Technologies                 |
-|-----------------|------------------------------------|
-| **Languages**   | Python, R, SQL                    |
-| **Visualization** | Power BI, Tableau, Excel         |
-| **Statistics**  | SPSS, STATA                       |
-| **Other**       | SAP, Project Management           |
+---  
 
-## � Professional Experience
+## **🛠️ Technical Skills**  
 
-### Sales Analyst @ Vajas Manufacturers Limited
-![Sales Analysis](assets/sales-analysis.jpg) *[Image: Sales dashboard example]*
-- Utilized advanced Excel and SAP for data processing
-- Analyzed sales patterns across multiple time dimensions
-- **Achievement:** Reduced order processing time by 50%
-- **Achievement:** Contributed to 20% sales growth through data-driven insights
+| **Category**       | **Tools & Technologies** |  
+|--------------------|--------------------------|  
+| **Programming**    | Python (Pandas, NumPy), R, SQL |  
+| **Data Viz**       | Power BI, Tableau, Excel, Matplotlib |  
+| **Analytics**      | SPSS, STATA, SAP |  
+| **Other**         | Project Management, Monitoring & Evaluation |  
 
-## 🎓 Education & Certifications
-![Certifications](assets/certifications.png) *[Image: Certification badges]*
-- **University of Nairobi**: BSc Economics and Statistics (2015-2020)
-- **Data Analytics Certification**: Sigma Academy (2024)
-- **Planning for M&E**: Philanthropy University (2023)
-- **Statistical Training**: Dalworth Statistical Center (SPSS, STATA)
+![Skills](https://skillicons.dev/icons?i=python,sql,powerbi,tableau,excel,github)  
 
-## 💻 Projects
-![Project Showcase](assets/project-showcase.gif) *[Image: Animated project visualization]*
+---  
 
-1. **Sales Forecasting Model**
-   - Python-based time series analysis
-   - [View Code](#)
+## **💼 Professional Experience**  
 
-2. **Customer Segmentation Analysis**
-   - Cluster analysis in R
-   - [View Dashboard](#)
+### **📈 Sales Analyst | Vajas Manufacturers Limited**  
+📍 *Nairobi, Kenya | Feb 2022 – Present*  
 
-3. **Process Optimization Study**
-   - SAP workflow analysis
-   - [View Report](#)
+✔ **Data-Driven Sales Growth** – Analyzed sales trends, leading to **20% revenue increase** in the first year.  
+✔ **Process Optimization** – Reduced order processing time **by 50%** using SAP automation.  
+✔ **Advanced Reporting** – Built dynamic dashboards in **Excel & Power BI** for real-time insights.  
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lydiah205&show_icons=true&theme=radical)
+---  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lydiah205&layout=compact)
+## **🎓 Education**  
+### **University of Nairobi**  
+📖 **BSc Economics & Statistics** *(2015 – 2020)*  
+
+---  
+
+## **🚀 What Makes My Work Stand Out?**  
+
+✅ **Business Impact** – My insights directly contribute to **revenue growth & efficiency**.  
+✅ **Technical Versatility** – From **Python scripting** to **Power BI dashboards**, I bridge data and decisions.  
+✅ **Certifications** – Trained in **Data Analytics (Sigma Academy)** and **Monitoring & Evaluation (Philanthropy University)**.  
+
+![Certifications](https://img.shields.io/badge/Data_Analytics-Sigma_Academy-blue)  
+![Certifications](https://img.shields.io/badge/M&E-Philanthropy_University-green)  
+
+---  
+
+## **📊 Featured Projects**  
+
+| **Project** | **Description** | **Tech Used** |  
+|------------|----------------|--------------|  
+| [Sales Forecasting Model](#) | Predictive analysis for inventory optimization | Python, Pandas, Scikit-learn |  
+| [Customer Segmentation](#) | RFM analysis for targeted marketing | SQL, Power BI |  
+| [Process Automation](#) | SAP workflow optimization | SAP, Excel Macros |  
+
+---  
+
+## **📫 Let's Connect**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:lydiahaokongo@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-green?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)  
