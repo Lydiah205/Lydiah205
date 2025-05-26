@@ -2,8 +2,34 @@
 ### **Data Analyst | Python | SQL | Power BI**  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,r,powerbi,tableau,excel,github" width="45%"/>
-</div>  
+  <!-- GitHub Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&hide=html,css,javascript&langs_count=5&custom_title=My%20Code%20Usage" width="45%"/>
+  
+  <!-- Custom Skills Badges Row 1 -->
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  </p>
+  
+  <!-- Custom Skills Badges Row 2 -->
+  <p>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
+    <img src="https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS"/>
+  </p>
+  
+  <!-- Custom Skills Badges Row 3 -->
+  <p>
+    <img src="https://img.shields.io/badge/STATA-1E4F8B?style=for-the-badge&logo=stata&logoColor=white" alt="STATA"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Data_Analysis-FF6B00?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Analysis"/>
+  </p>
+</div>
+ 
 
 ---  
 
