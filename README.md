@@ -1,16 +1,67 @@
-## Hi there 👋
+# Lydiah Okong'o | Data Analyst Portfolio
 
-<!--
-**Lydiah205/Lydiah205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Image](assets/data-analytics-header.jpg) *[Image: Data visualization dashboard]*
 
-Here are some ideas to get you started:
+## 👋 About Me
+**Detail-oriented Data Analyst** with expertise in transforming complex data into actionable insights. Passionate about using data-driven approaches to solve business problems and optimize processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Image](assets/profile-placeholder.jpg) *[Image: Professional headshot or avatar]*
+
+## 🔧 Technical Skills
+![Skills Infographic](assets/skills-infographic.png) *[Image: Visual representation of skills]*
+
+| Category        | Tools/Technologies                 |
+|-----------------|------------------------------------|
+| **Languages**   | Python, R, SQL                    |
+| **Visualization** | Power BI, Tableau, Excel         |
+| **Statistics**  | SPSS, STATA                       |
+| **Other**       | SAP, Project Management           |
+
+## � Professional Experience
+
+### Sales Analyst @ Vajas Manufacturers Limited
+![Sales Analysis](assets/sales-analysis.jpg) *[Image: Sales dashboard example]*
+- Utilized advanced Excel and SAP for data processing
+- Analyzed sales patterns across multiple time dimensions
+- **Achievement:** Reduced order processing time by 50%
+- **Achievement:** Contributed to 20% sales growth through data-driven insights
+
+## 🎓 Education & Certifications
+![Certifications](assets/certifications.png) *[Image: Certification badges]*
+- **University of Nairobi**: BSc Economics and Statistics (2015-2020)
+- **Data Analytics Certification**: Sigma Academy (2024)
+- **Planning for M&E**: Philanthropy University (2023)
+- **Statistical Training**: Dalworth Statistical Center (SPSS, STATA)
+
+## 💻 Projects
+![Project Showcase](assets/project-showcase.gif) *[Image: Animated project visualization]*
+
+1. **Sales Forecasting Model**
+   - Python-based time series analysis
+   - [View Code](#)
+
+2. **Customer Segmentation Analysis**
+   - Cluster analysis in R
+   - [View Dashboard](#)
+
+3. **Process Optimization Study**
+   - SAP workflow analysis
+   - [View Report](#)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+## 🌟 Featured Skills
+```python
+# Sample code snippet
+import pandas as pd
+import matplotlib.pyplot as plt
+
+def analyze_sales(data):
+    df = pd.read_csv(data)
+    monthly_sales = df.groupby('month')['sales'].sum()
+    monthly_sales.plot(kind='bar')
+    plt.title('Monthly Sales Analysis')
+    return plt.show()
