@@ -2,9 +2,6 @@
 ### **Data Analyst | Python | SQL | Power BI**  
 
 <div align="center">
-  <!-- GitHub Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&hide=html,css,javascript&langs_count=5&custom_title=My%20Code%20Usage" width="45%"/>
-  
   <!-- Custom Skills Badges Row 1 -->
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
