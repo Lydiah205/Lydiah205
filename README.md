@@ -1,10 +1,7 @@
-<div align="center">
+<div align="left">
   
 # 👋 **LYDIAH OKONG'O**  
-### **Data Analyst | Python | SQL | Power BI**  
-
-![Banner](https://github.com/Lydiah205/Lydiah205/blob/main/assets/banner.gif?raw=true) *[Optional: Add your custom banner image]*
-
+### **Data Analyst | Python | SQL | Power BI** 
 </div>
 
 <div align="left">
