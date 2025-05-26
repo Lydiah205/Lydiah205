@@ -1,5 +1,11 @@
-# **LYDIAH OKONG'O **  
+<div align="center">
+  
+# 👋 **LYDIAH OKONG'O**  
 ### **Data Analyst | Python | SQL | Power BI**  
+
+![Banner](https://github.com/Lydiah205/Lydiah205/blob/main/assets/banner.gif?raw=true) *[Optional: Add your custom banner image]*
+
+</div>
 
 <div align="left">
   <!-- Custom Skills Badges Row 1 -->
