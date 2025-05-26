@@ -107,4 +107,4 @@
 
 ## **📫 Let's Connect**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:lydiahaokongo@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-green?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile) &nbsp; [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:lydiahaokongo@gmail.com) &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-green?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
